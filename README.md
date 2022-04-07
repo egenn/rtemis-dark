@@ -1,5 +1,8 @@
 # rtemis-dark
 
-__rtemis-dark__ is an elegant, unobtrusive dark theme for [VS Code](https://code.visualstudio.com/).
+__rtemis-dark__ [VS Code](https://code.visualstudio.com/) theme.
 
-It is the preferred theme for [rtemis](https://rtemis.lambdamd.org).
+Because dark themes need the same little number under **R**, **G**, and **B**,
+some purples, and a splash of teal.
+
+The preferred theme for [rtemis](https://github.com/egenn/rtemis).
