@@ -3,12 +3,17 @@
     "displayName": "rtemis-dark",
     "description": "rtemis dark theme",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/egenn/rtemis-dark.git"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "images/rtemis.png",
     "contributes": {
         "themes": [
             {
