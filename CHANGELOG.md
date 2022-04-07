@@ -1,6 +1,6 @@
 # Change Log
 
-rtemis-dark, because dark themes needs the same little number under R, G, and B.
+rtemis-dark is live.
 
 ## [0.0.1]
 
