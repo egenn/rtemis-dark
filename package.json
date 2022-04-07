@@ -3,6 +3,7 @@
     "displayName": "rtemis-dark",
     "description": "rtemis dark theme",
     "version": "0.0.1",
+    "publisher": "egenn",
     "repository": {
         "type": "git",
         "url": "https://github.com/egenn/rtemis-dark.git"
