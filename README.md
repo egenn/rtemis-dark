@@ -8,3 +8,5 @@ some purples, and a splash of teal.
 Recommended font is Fira Code.
 
 This is the preferred theme for [rtemis](https://github.com/egenn/rtemis).
+
+![rtemis-dark screenshot](images/rtemis-dark.jpeg)
