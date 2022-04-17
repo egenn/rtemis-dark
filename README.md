@@ -2,11 +2,12 @@
 
 __rtemis-dark__ [VS Code](https://code.visualstudio.com/) theme.
 
-Because dark themes need the same little number under **R**, **G**, and **B**,
-some purples, and a splash of teal.
+The right colors in the right place, for the most part.
+
+The preferred theme for [rtemis](https://github.com/egenn/rtemis).
 
 Recommended font is Fira Code.
 
-This is the preferred theme for [rtemis](https://github.com/egenn/rtemis).
+![rtemis-dark screenshot](https://github.com/egenn/rtemis-dark/raw/master/images/rtemis-dark.jpeg)
 
-![rtemis-dark screenshot](images/rtemis-dark.jpeg)
+Also, check out the [Firefox rtemis dark theme](https://addons.mozilla.org/en-US/firefox/addon/rtemis-dark/)

@@ -1,27 +1,33 @@
 {
-    "name": "rtemis-dark",
-    "displayName": "rtemis-dark",
-    "description": "rtemis dark theme",
-    "version": "0.0.2",
-    "publisher": "egenn",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/egenn/rtemis-dark.git"
-    },
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/rtemis.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "rtemis-dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/rtemis-dark-color-theme.json"
-            }
-        ]
-    }
+	"name": "rtemis-dark",
+	"displayName": "rtemis-dark",
+	"description": "rtemis dark theme",
+	"version": "0.0.4",
+	"publisher": "egenn",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/egenn/rtemis-dark.git"
+	},
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/rtemis.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "rtemis-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rtemis-dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5dd6ea78-0fff-403b-9bb4-df7ea867895b",
+		"publisherDisplayName": "egenn",
+		"publisherId": "b55c2d93-bd52-4832-9e65-5cacb1d9df31",
+		"isPreReleaseVersion": false
+	}
 }
