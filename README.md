@@ -1,8 +1,6 @@
-# rtemis-dark
+# rtemis VS Code themes
 
-__rtemis-dark__ [VS Code](https://code.visualstudio.com/) theme.
-
-The right colors in the right place, for the most part.
+__rtemis__ [VS Code](https://code.visualstudio.com/) theme.
 
 The preferred theme for [rtemis](https://github.com/egenn/rtemis).
 

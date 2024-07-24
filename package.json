@@ -1,7 +1,7 @@
 {
 	"name": "rtemis-dark",
-	"displayName": "rtemis-dark",
-	"description": "rtemis dark theme",
+	"displayName": "rtemis theme",
+	"description": "rtemis VS Code theme",
 	"version": "0.0.4",
 	"publisher": "egenn",
 	"repository": {

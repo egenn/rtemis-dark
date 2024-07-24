@@ -1,8 +1,12 @@
 # Change Log
 
+## [0.0.4]
+
+- Updated editor word highlighting
+
 ## [0.0.3]
 
-updated teal, focusBorder
+- updated teal, focusBorder
 
 ## [0.0.2]
 
