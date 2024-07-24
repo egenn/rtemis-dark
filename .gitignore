@@ -1,4 +1,16 @@
-node_modules
+# Dev
+dev/
+
+# R
+R/
+
+# MacOS
+.DS_Store
+
+# VS Code
 *.vsix
 .vscodeignore
-.DS_Store
+*.code-workspace
+
+# Node
+node_modules
