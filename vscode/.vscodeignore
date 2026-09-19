@@ -1,0 +1,11 @@
+# Include only the extension's runtime files and public documentation.
+**
+!package.json
+!README.md
+!CHANGELOG.md
+!LICENSE
+!THIRD_PARTY_NOTICES.txt
+!themes/*.json
+!images/logo.png
+!images/rtemis-dark.png
+!images/rtemis-light.png

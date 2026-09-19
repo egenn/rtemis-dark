@@ -2,11 +2,12 @@
 	"name": "rtemis-dark",
 	"displayName": "rtemis theme",
 	"description": "rtemis VS Code theme",
-	"version": "0.0.5",
+	"version": "0.1.0",
 	"publisher": "egenn",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/egenn/rtemis-dark.git"
+		"url": "https://github.com/egenn/rtemis-dark.git",
+		"directory": "vscode"
 	},
 	"engines": {
 		"vscode": "^1.51.0"
@@ -14,13 +15,18 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "images/rtemis.png",
+	"icon": "images/logo.png",
 	"contributes": {
 		"themes": [
 			{
 				"label": "rtemis-dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/rtemis-dark-color-theme.json"
+			},
+			{
+				"label": "rtemis-light",
+				"uiTheme": "vs",
+				"path": "./themes/rtemis-light-color-theme.json"
 			}
 		]
 	},

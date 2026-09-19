@@ -1,11 +1,31 @@
-# rtemis VS Code themes
+# rtemis themes
 
-__rtemis__ [VS Code](https://code.visualstudio.com/) theme.
+Editor themes for [rtemis](https://www.rtemis.org).
 
-The preferred theme for [rtemis](https://github.com/egenn/rtemis).
+| Editor | Themes |
+|---|---|
+| [VS Code](vscode/) | `rtemis-dark` and `rtemis-light` |
+| [Zed](zed/) | Planned |
 
-Recommended font is Fira Code.
+## VS Code development
 
-![rtemis-dark screenshot](https://github.com/egenn/rtemis-dark/raw/master/images/rtemis-dark.jpeg)
+The extension is self-contained in `vscode/`. Edit the finished JSON files in
+`vscode/themes/` directly; no theme generation or build step is required.
 
-Also, check out the [Firefox rtemis dark theme](https://addons.mozilla.org/en-US/firefox/addon/rtemis-dark/)
+Open this repository in VS Code and press F5 to launch the extension in a
+development window. Choose `rtemis-dark` or `rtemis-light` with **Preferences:
+Color Theme**.
+
+To create an installable extension package, run:
+
+```sh
+cd vscode
+npx @vscode/vsce package --no-dependencies --githubBranch master
+```
+
+Install the resulting `.vsix` using **Extensions → … → Install from VSIX**.
+
+## License
+
+See [LICENSE](LICENSE) and the
+[VS Code third-party notices](vscode/THIRD_PARTY_NOTICES.txt).
