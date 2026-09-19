@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-09-19
 
 - Updated and registered dark and light themes with neutral gray interfaces and paired rtemis syntax colors.
 - Limited italics to comments in both modes.

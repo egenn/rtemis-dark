@@ -6,7 +6,7 @@
 	"publisher": "egenn",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/egenn/rtemis-dark.git",
+		"url": "https://github.com/rtemis-org/rtemis-theme.git",
 		"directory": "vscode"
 	},
 	"engines": {
@@ -30,10 +30,14 @@
 			}
 		]
 	},
-	"__metadata": {
-		"id": "5dd6ea78-0fff-403b-9bb4-df7ea867895b",
-		"publisherDisplayName": "egenn",
-		"publisherId": "b55c2d93-bd52-4832-9e65-5cacb1d9df31",
-		"isPreReleaseVersion": false
+	"license": "BSD-3-Clause",
+	"homepage": "https://github.com/rtemis-org/rtemis-theme",
+	"bugs": {
+		"url": "https://github.com/rtemis-org/rtemis-theme/issues"
+	},
+	"vsce": {
+		"githubBranch": "master",
+		"baseContentUrl": "https://github.com/rtemis-org/rtemis-theme/blob/master/vscode",
+		"baseImagesUrl": "https://raw.githubusercontent.com/rtemis-org/rtemis-theme/master/vscode"
 	}
 }
