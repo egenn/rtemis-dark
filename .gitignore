@@ -19,3 +19,8 @@ R/
 # Node
 node_modules/
 npm-debug.log*
+
+# Quarto theme preview output
+/quarto/.quarto/
+/quarto/preview.html
+/quarto/preview_files/

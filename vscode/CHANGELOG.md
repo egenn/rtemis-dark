@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.1] - 2026-09-20
+
+- Restored green addition, red deletion, and blue modification indicators, with distinct diff line and word highlights.
+- Kept diff line-number gutters neutral in both modes.
+
 ## [0.1.0] - 2026-09-19
 
 - Updated and registered dark and light themes with neutral gray interfaces and paired rtemis syntax colors.

@@ -1,0 +1,74 @@
+---
+title: "rtemis Quarto themes"
+format:
+  html:
+    theme:
+      light: rtemis-light.scss
+      dark: rtemis-dark.scss
+    syntax-highlighting:
+      light: rtemis-light.theme
+      dark: rtemis-dark.theme
+    code-line-numbers: false
+    toc: true
+---
+
+Use the light/dark toggle to compare the paired palettes. These examples are
+highlighted without running code. Inline code looks like `train(iris)`.
+
+## R
+
+```r
+# Fit and describe a model
+mod <- train(
+  iris,
+  hyperparameters = setup_CART(maxdepth = c(2L, 3L)),
+  outer_resampling_config = setup_Resampler()
+)
+describe(mod)
+
+label <- "rtemis"
+if (TRUE) {
+  print(label)
+}
+```
+
+## Python
+
+```python
+# Scale finite measurements
+from math import isfinite
+
+def scale(values: list[float], factor: float = 2.5):
+    """Scale each finite value."""
+    return [value * factor for value in values if isfinite(value)]
+
+result = scale([1.0, 2.0, 3.0], factor=0.5)
+print(f"Scaled values: {result}")
+```
+
+## Julia
+
+```julia
+# Summarize measurements
+using Statistics
+
+function summarize(values::Vector{Float64}; label="rtemis")
+    center = mean(values)
+    println("$label: $center")
+    return (mean=center, count=length(values))
+end
+
+summarize([1.0, 2.0, 3.0])
+```
+
+## JSON
+
+```json
+{
+  "name": "rtemis",
+  "enabled": true,
+  "depths": [2, 3],
+  "threshold": 0.5,
+  "optional": null
+}
+```
