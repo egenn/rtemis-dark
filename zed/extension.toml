@@ -1,6 +1,6 @@
 id = "rtemis-theme"
 name = "rtemis theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Stathis Gennatas"]
 description = "Dark and light rtemis themes with neutral gray interfaces and paired syntax colors."
