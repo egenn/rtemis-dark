@@ -10,7 +10,7 @@ red deletions, and blue modification markers.
 |---|---|---|
 | [VS Code](vscode/) | `rtemis-dark` and `rtemis-light` | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=egenn.rtemis-dark) |
 | [Open VSX](openvsx/) | `rtemis-dark` and `rtemis-light` | [Open VSX Registry](https://open-vsx.org/extension/egenn/rtemis-theme) |
-| [Zed](zed/) | `rtemis-dark` and `rtemis-light` | [Local installation](zed/README.md#install) |
+| [Zed](zed/) | `rtemis-dark` and `rtemis-light` | [Zed extensions](https://zed.dev/extensions/rtemis-theme) |
 | [Quarto](quarto/) | Dark and light website and syntax themes | [Book setup](quarto/README.md#use-in-a-book) |
 
 In VS Code and compatible editors, choose **rtemis-dark** or **rtemis-light** with

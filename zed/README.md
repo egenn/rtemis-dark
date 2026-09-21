@@ -12,9 +12,14 @@ stronger highlighting on changed words.
 
 ## Install
 
-Copy [`themes/rtemis.json`](themes/rtemis.json) into `~/.config/zed/themes/` on
-macOS or Linux. Run **theme selector: toggle** and choose **rtemis-dark** or
+Install [rtemis theme](https://zed.dev/extensions/rtemis-theme) from the Zed
+extensions registry: run **zed: extensions**, search for `rtemis`, and click
+**Install**. Then run **theme selector: toggle** and choose **rtemis-dark** or
 **rtemis-light**.
+
+To use the theme without the extension, copy
+[`themes/rtemis.json`](themes/rtemis.json) into `~/.config/zed/themes/` on
+macOS or Linux.
 
 ## Matching VS Code
 
