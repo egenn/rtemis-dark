@@ -2,6 +2,9 @@
 
 ## 0.1.1
 
+- Made Markdown emphasis italic.
+- Colored Markdown strikethrough text gray, matching VS Code.
+- Colored link URLs blue, matching VS Code.
 - Make text selection in agent panel transparent
 
 ## 0.1.0 - initial release

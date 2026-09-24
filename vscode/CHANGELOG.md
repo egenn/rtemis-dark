@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.2]
+
+- Colored the activity bar badge with the rtemis teal accent.
+- Made Markdown emphasis italic and nested bold emphasis bold italic, including semantic emphasis from language servers such as Typst.
+
 ## [0.1.1] - 2026-09-20
 
 - Restored green addition, red deletion, and blue modification indicators, with distinct diff line and word highlights.

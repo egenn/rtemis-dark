@@ -313,7 +313,7 @@
           },
           "emphasis": {
             "color": "#F07778",
-            "font_style": "normal",
+            "font_style": "italic",
             "font_weight": 400
           },
           "emphasis.strong": {
@@ -397,7 +397,7 @@
             "font_weight": 400
           },
           "link_uri": {
-            "color": "#6CA3A0",
+            "color": "#79A2CE",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -518,6 +518,11 @@
           },
           "string.special.symbol": {
             "color": "#E397EA",
+            "font_style": "normal",
+            "font_weight": 400
+          },
+          "strikethrough": {
+            "color": "#ADADAD",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -934,7 +939,7 @@
           },
           "emphasis": {
             "color": "#AB383F",
-            "font_style": "normal",
+            "font_style": "italic",
             "font_weight": 400
           },
           "emphasis.strong": {
@@ -1018,7 +1023,7 @@
             "font_weight": 400
           },
           "link_uri": {
-            "color": "#346B69",
+            "color": "#345B82",
             "font_style": "normal",
             "font_weight": 400
           },
@@ -1139,6 +1144,11 @@
           },
           "string.special.symbol": {
             "color": "#8F3799",
+            "font_style": "normal",
+            "font_weight": 400
+          },
+          "strikethrough": {
+            "color": "#555555",
             "font_style": "normal",
             "font_weight": 400
           },

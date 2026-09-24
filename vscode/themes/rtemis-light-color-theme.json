@@ -21,8 +21,8 @@
     "activityBar.border": "#D6D6D6",
     "activityBar.activeBorder": "#346B69",
     "activityBar.activeBackground": "#FCFCFC",
-    "activityBarBadge.background": "#D2D2D2",
-    "activityBarBadge.foreground": "#292929",
+    "activityBarBadge.background": "#346B69",
+    "activityBarBadge.foreground": "#FCFCFC",
     "sideBar.background": "#EFEFEF",
     "sideBar.foreground": "#555555",
     "sideBar.border": "#D6D6D6",
@@ -1954,6 +1954,25 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "Markup italic",
+      "scope": [
+        "markup.italic"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markup bold italic",
+      "scope": [
+        "markup.bold markup.italic",
+        "markup.italic markup.bold"
+      ],
+      "settings": {
+        "fontStyle": "bold italic"
+      }
     }
   ],
   "semanticTokenColors": {
@@ -2039,7 +2058,7 @@
     },
     "text.emph": {
       "foreground": "#AB383F",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
     "text.strong": {
       "foreground": "#AB383F",
