@@ -5,7 +5,7 @@ matching the rtemis VS Code palette and neutral gray interface.
 
 Includes **rtemis-dark** and **rtemis-light**. Functions are blue, types are
 light blue, parameters are orange, strings are teal, numbers and constants are
-pink, and keywords are violet. Only comments use italics.
+pink, and keywords are violet. Comments and documentation comments use upright text.
 
 Diffs use green additions, red deletions, and blue modification markers, with
 stronger highlighting on changed words.

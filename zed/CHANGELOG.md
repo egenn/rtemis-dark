@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Removed italics from comments and documentation comments in both themes.
+
 ## 0.1.1
 
 - Made Markdown emphasis italic.

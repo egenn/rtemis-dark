@@ -87,7 +87,7 @@ The preview does not execute code or require those language runtimes.
 
 Functions are blue, types light blue, named arguments/attributes orange,
 numbers and constants pink, strings teal, and keywords violet. Operators are
-neutral gray. Italics are limited to comments and their documentation annotations.
+neutral gray. Comments and their documentation annotations use upright text.
 
 Pandoc/Skylighting has fewer token categories than VS Code or Zed. For example,
 R named arguments use `Attribute`, while the `L` suffix in `2L` uses `DataType`.

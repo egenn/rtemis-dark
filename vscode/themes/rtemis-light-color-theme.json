@@ -1946,13 +1946,13 @@
       }
     },
     {
-      "name": "Italic comments only",
+      "name": "Upright comments",
       "scope": [
         "comment",
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -2074,7 +2074,7 @@
       "italic": false
     },
     "comment": {
-      "italic": true
+      "italic": false
     }
   }
 }

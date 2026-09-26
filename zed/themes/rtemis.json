@@ -263,12 +263,12 @@
           },
           "comment": {
             "color": "#9B9B9B",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": 400
           },
           "comment.doc": {
             "color": "#9B9B9B",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": 400
           },
           "conditional": {
@@ -889,12 +889,12 @@
           },
           "comment": {
             "color": "#626262",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": 400
           },
           "comment.doc": {
             "color": "#626262",
-            "font_style": "italic",
+            "font_style": "normal",
             "font_weight": 400
           },
           "conditional": {

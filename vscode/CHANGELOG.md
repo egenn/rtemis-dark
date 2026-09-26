@@ -1,5 +1,9 @@
 # Change Log
 
+## Unreleased
+
+- Removed italics from comments and documentation comments in both themes.
+
 ## [0.1.2]
 
 - Colored the activity bar badge with the rtemis teal accent.
